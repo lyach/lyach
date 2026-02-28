@@ -1,7 +1,5 @@
-## ¡Hola!
+## ¡Hola! I'm Lya Chiñas
 
-### I'm Lya Chiñas, a PhD student at the University of Toronto
+🧬 I work on deep learning models for metabolic engineering
 
-🧬 I work on machine learning for metabolic engineering
-
-🔍 More about me [here](https://lyach.github.io/LyaChinas-Website/)
+🔍 Find my research and contact info [here](https://lyach.github.io/LyaChinas-Website/)
